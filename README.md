@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/charumathi-N/charumathi-N/main/github-header-image.png)]
+![MasterHead](https://raw.githubusercontent.com/charumathi-N/charumathi-N/main/github-header-image.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charumathi-n&label=Profile%20views&color=0e75b6&style=flat" alt="charumathi-n" /> </p>
 
