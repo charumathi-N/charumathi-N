@@ -1,4 +1,4 @@
-![image](https://github.com/charumathi-N/charumathi-N/assets/62592988/b2bef8e3-edb1-4cac-a119-65879da1cab4)[![MasterHead](https://wallpaperaccess.com/full/1614580.png)]
+[![MasterHead](https://wallpaperaccess.com/full/1614580.png)]
 
 <h1 align="center">Hi 👋, I'm Charumathi</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charumathi-n" alt="charumathi-n" /></a> </p>
 
-![image](https://github.com/charumathi-N/charumathi-N/assets/62592988/c20428a3-1832-4ac7-b7a5-6a1072283fd2)
+<img align="right" alt="Coding" width="400" src="https://smileitsolutions.uk/_nuxt/SoftwareBannerImage.6fea8100.webp"/>
 
 
 - 🌱 I’m currently learning **MERNSTACK**
