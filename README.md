@@ -1,7 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/full/1614580.png)]
-
-<h1 align="center">Hi 👋, I'm Charumathi</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+[![MasterHead](https://raw.githubusercontent.com/charumathi-N/charumathi-N/main/github-header-image.png)]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charumathi-n&label=Profile%20views&color=0e75b6&style=flat" alt="charumathi-n" /> </p>
 
